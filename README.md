@@ -1,3 +1,7 @@
+# Here is the production url for this small app
+
+URL: https://eash-season-indicator.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
